@@ -1,0 +1,10 @@
+﻿{
+    "name": "ParticleSystem1_271eb413f08d46f38595e203886dbf60",
+    "references": [
+        "VarwinCore"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

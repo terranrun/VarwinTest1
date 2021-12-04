@@ -1,0 +1,10 @@
+﻿{
+    "name": "AudioSource1_a1e823b70233492ab00c693e20dfb47f",
+    "references": [
+        "VarwinCore"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

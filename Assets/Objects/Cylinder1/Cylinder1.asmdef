@@ -1,0 +1,10 @@
+﻿{
+    "name": "Cylinder1_44c1121da694410abc0eeab82bf544f8",
+    "references": [
+        "VarwinCore"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
